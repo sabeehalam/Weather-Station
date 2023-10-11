@@ -1,0 +1,1 @@
+{"MqttPublishQos": "0", "MqttPublishTopic": "vectracom%2Fweather%2Fall", "MqttBroker": "192.168.120.164", "MqttUSER": "", "MqttClientID": "Weather+Station+Vcom", "KeepAlive": "100", "MqttPort": "1883", "MqttSubscribeTopic": "", "Wifi-Name": "Embedded", "Wifi-Password": "password"}
